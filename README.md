@@ -75,13 +75,6 @@ This repository is organized by DAX proficiency level:
 
 ---
 
-## 📌 Getting Started
-
-To get started:
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/powerbi-dax.git
-   cd powerbi-dax
 Open the corresponding .pbix files in Power BI Desktop.
 
 Use the included comments and descriptions to learn, modify, and test DAX queries.
